@@ -7,7 +7,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 
-import models.Room;
+import com.saul.boot.clr.models.Room;
 
 @Component
 public class RoomCleaningPrimer implements CommandLineRunner {

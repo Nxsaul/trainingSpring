@@ -1,4 +1,4 @@
-package models;
+package com.saul.boot.clr.models;
 
 public class Room {
 	private long id;
