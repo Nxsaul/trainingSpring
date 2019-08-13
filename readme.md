@@ -7,7 +7,7 @@ Such as:
 )
 
 - RabbitMQ --> [RabbitMQ Features](https://blog.bi-geek.com/rabbitmq-para-principiantes/
-)
+) ![alt text](https://www.cloudamqp.com/img/blog/workflow-rabbitmq.png)
 
 ## The project consists of:
 
